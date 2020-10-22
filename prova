@@ -4,3 +4,12 @@ AND GECESC_TIPO_REC ='CC'
 and GECESC_PROG_CARTA = '990'
 and GECESC_F_TEC = '01'
 and GECESC_STATO_CAR = 'O'
+
+   <soapenv:Header>
+      <wsse:Security xmlns:wsse="http://schemas.xmlsoap.org/ws/2003/06/secext">
+         <wsse:UsernameToken>
+            <wsse:Username>ee54690</wsse:Username>
+            <wsse:Password>Bono0009</wsse:Password>
+         </wsse:UsernameToken>
+      </wsse:Security>
+   </soapenv:Header>
