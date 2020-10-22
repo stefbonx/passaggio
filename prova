@@ -1,3 +1,6 @@
 
-
-ciao stefano
+where GECESC_ABI_CAR = 2008
+AND GECESC_TIPO_REC ='CC'
+and GECESC_PROG_CARTA = '990'
+and GECESC_F_TEC = '01'
+and GECESC_STATO_CAR = 'O'
